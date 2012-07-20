@@ -1,0 +1,36 @@
+{
+  "name": "jwt-sign",
+  "description": "JWT(JSON Web Token) sign module",
+  "version": "0.1.0",
+  "author": {
+    "name": "Gustavo Machado",
+    "email": "machadogj@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/machadogj/node-jwt-sign.git"
+  },
+  "devDependencies": {
+    "mocha": "*"
+  },
+  "scripts": {
+    "test": "./node_modules/.bin/mocha test/*.js"
+  },
+  "engines": {
+    "node": ">= 0.6.16"
+  },
+  "keywords": [
+    "jwt",
+    "sign",
+    "signature"
+  ],
+  "main": "./index",
+  "_id": "jwt-sign@0.1.0" ,
+  "dependencies": {},
+  "optionalDependencies": {},
+  "_engineSupported": true,
+  "_npmVersion": "1.1.19",
+  "_nodeVersion": "v0.6.16",
+  "_defaultsLoaded": true,
+  "_from": "jwt-sign"
+}
