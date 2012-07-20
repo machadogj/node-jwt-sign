@@ -1,5 +1,9 @@
 Module for signing jwt tokens based on a private key in .pem format.
 
+# Install
+
+    npm install jwt-sign
+
 # Usage
 
 ```js
